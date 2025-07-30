@@ -12,7 +12,7 @@ public class EmployeeManagementSystem1Application {
 // This is my first Spring Boot Application
 	public static void main(String[] args) {
 		SpringApplication.run(EmployeeManagementSystem1Application.class, args);
-		System.out.println("Spring Application Started!!");
+		System.ut.println("Spring Application Started!!");
 	}
 
 }
